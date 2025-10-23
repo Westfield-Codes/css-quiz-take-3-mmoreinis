@@ -21,7 +21,7 @@ You can play the game live on GitHub Pages: [Whack-a-Mole Game Live Demo](https:
 
 ## Screenshot
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](original.png)
 
 ## GitHub Topics
 
